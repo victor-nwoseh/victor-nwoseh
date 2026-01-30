@@ -38,12 +38,16 @@ A production SaaS platform (similar to Zapier) with visual workflow builder, OAu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor-nwoseh&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-nwoseh&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-nwoseh&theme=transparent&hide_border=true" alt="GitHub Streak" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-nwoseh&theme=transparent&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-nwoseh&theme=transparent" alt="GitHub Profile Summary">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-nwoseh&theme=transparent" alt="Top Languages" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-nwoseh&theme=transparent&utcOffset=0" alt="Productive Time" height="180">
 </p>
 
 ---
